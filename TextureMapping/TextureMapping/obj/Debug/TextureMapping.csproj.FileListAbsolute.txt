@@ -1,0 +1,9 @@
+C:\!PROGRAMMING\TextureMapping\TextureMapping\TextureMapping\bin\Debug\TextureMapping.exe.config
+C:\!PROGRAMMING\TextureMapping\TextureMapping\TextureMapping\obj\Debug\TextureMapping.csprojResolveAssemblyReference.cache
+C:\!PROGRAMMING\TextureMapping\TextureMapping\TextureMapping\obj\Debug\TextureMapping.Form1.resources
+C:\!PROGRAMMING\TextureMapping\TextureMapping\TextureMapping\obj\Debug\TextureMapping.Properties.Resources.resources
+C:\!PROGRAMMING\TextureMapping\TextureMapping\TextureMapping\obj\Debug\TextureMapping.csproj.GenerateResource.Cache
+C:\!PROGRAMMING\TextureMapping\TextureMapping\TextureMapping\bin\Debug\TextureMapping.exe
+C:\!PROGRAMMING\TextureMapping\TextureMapping\TextureMapping\bin\Debug\TextureMapping.pdb
+C:\!PROGRAMMING\TextureMapping\TextureMapping\TextureMapping\obj\Debug\TextureMapping.exe
+C:\!PROGRAMMING\TextureMapping\TextureMapping\TextureMapping\obj\Debug\TextureMapping.pdb
